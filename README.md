@@ -1,4 +1,4 @@
-﻿# tudent Performance Prediction & Personalized Learning Plan
+﻿# Student Performance Prediction & Personalized Learning Plan
 
 A machine learning web app that predicts student academic performance based on demographic, behavioral, and academic inputs — and generates tailored learning plans to guide student improvement.
 
